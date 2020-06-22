@@ -1,0 +1,3 @@
+const BG_COLOUR = '#1B1B1B';
+const SNAKE_COLOUR = '#f2ECE4';
+const FOOD_COLOUR = '#F15951';
